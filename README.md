@@ -145,7 +145,6 @@ Despliegue de aplicaciones backend
 
 [![GitHub](https://img.shields.io/badge/GitHub-yafAram-181717?style=for-the-badge\&logo=github)](https://github.com/yafAram)
 [![Email](https://img.shields.io/badge/Email-yaftearam34%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yaftearam34@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agregar_enlace-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
 
 </div>
 
